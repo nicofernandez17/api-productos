@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "productName": "Apple iPhone 15 Pro",
+    "imageUrl": "https://example.com/images/iphone15pro.jpg",
+    "description": "6.1-inch OLED display, A17 Pro chip, 128GB storage.",
+    "price": 1299.99,
+    "rating": 4.8,
+    "specifications": "Color: Space Black | Storage: 128GB | Camera: 48MP"
+  },
+  {
+    "id": "2",
+    "productName": "Sony WH-1000XM5 Headphones",
+    "imageUrl": "https://example.com/images/sonywh1000xm5.jpg",
+    "description": "Noise-cancelling wireless headphones with 30h battery life.",
+    "price": 399.99,
+    "rating": 4.7,
+    "specifications": "Bluetooth 5.2 | USB-C | Weight: 250g"
+  },
+  {
+    "id": "3",
+    "productName": "Samsung Galaxy S23 Ultra",
+    "imageUrl": "https://example.com/images/galaxys23ultra.jpg",
+    "description": "6.8-inch Dynamic AMOLED display, 200MP camera, S-Pen included.",
+    "price": 1399.99,
+    "rating": 4.6,
+    "specifications": "RAM: 12GB | Storage: 256GB | Battery: 5000mAh"
+  }
+]
